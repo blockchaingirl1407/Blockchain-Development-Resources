@@ -306,6 +306,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 | --------------------------------------------- | -------------------------------------------------------------------------- |
 | [Moralis](https://moralis.io)                 | Moralis provides a single workflow for building high performance dapps     |
 | [Thirdweb](https://thirdweb.com)              | Powerful SDK and intuitive tools for developers to implement web3 features |
+| [Tatum](https://tatum.io/)                    | SDK that provides the infrastructure and a framework to build Web3 apps    |
+
 
 
 <div align="right">
@@ -326,6 +328,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [QuickNode](https://www.quicknode.com)| A single platform for your production, staging, and testing environments                      |
 | [Ankr](https://www.ankr.com/protocol/)| The fastest and most reliable Web3 infrastructure provider                                    |
 | [GetBlock](https://getblock.io/)| A flexible Blockchain RPC Provider that offers instant API access to over 50 multiple blockchains   |
+| [Tatum](https://tatum.io/)            | Access 100+ blockchain nodes directly via Tatum                                                |
 
 <div align="right">
     <b><a href="##table-of-contents">↥ Back To Top</a></b>
@@ -361,6 +364,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [template-web3-app](https://github.com/turbo-eth/template-web3-app)
 - [Boilr3](https://github.com/Envoy-VC/boilr3)
 - [Solidity hardhat typescript boilerplate](https://github.com/emretepedev/solidity-hardhat-typescript-boilerplate)
+- [Tatum](https://github.com/tatumio/example-apps)
 
 
 <div align="right">
